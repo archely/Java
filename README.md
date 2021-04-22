@@ -1,3 +1,4 @@
 # Java
-<h2>Basic java</h2>
+<h2>Java Practice
+</h2>
 
